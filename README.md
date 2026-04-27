@@ -1,2 +1,1 @@
-# cepi-osvaldo-2ano
-Turmas do cepi osvaldo do 2 ano de Desenvolvimento de sistemas
+<h1 align="center"> Bem vindos aos projetos das turmas do cepi osvaldo do curso técnico em desenvolvimento de sistemas </h1>
