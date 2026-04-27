@@ -1,4 +1,6 @@
 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
           
 <h1 align="center"> Bem vindos aos projetos das turmas do cepi osvaldo do curso técnico em desenvolvimento de sistemas </h1>
 ## Olá pessoal, Me chamo Aldenor Neto 👋
