@@ -1,8 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <h1 align="center"> Bem vindos aos projetos das turmas do cepi osvaldo do curso técnico em desenvolvimento de sistemas </h1>
-## Olá pessoal, Me chamo Aldenor Neto 👋
-## Bem vindo ao meu perfil do github
+<h3>## Olá pessoal, Me chamo Aldenor Neto 👋</h3>
+<h3>## Bem vindo ao meu perfil do github</h3>
 
 **professor-aldenorneto/cepi-osvaldo-2ano** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 Aqui estão algumas idéias para você começar:
