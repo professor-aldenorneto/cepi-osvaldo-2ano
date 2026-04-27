@@ -1,7 +1,4 @@
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
 <h1 align="center"> Bem vindos aos projetos das turmas do cepi osvaldo do curso técnico em desenvolvimento de sistemas </h1>
 ## Olá pessoal, Me chamo Aldenor Neto 👋
 ## Bem vindo ao meu perfil do github
@@ -20,10 +17,9 @@ Aqui estão algumas idéias para você começar:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
             
-            <i class="devicon-canva-original colorido"></i>
-          
+           
           
                       
 ## Estou aprendendo
