@@ -10,5 +10,7 @@ namespace exercicio_classe3
     {
         public string nome;
         public int idade;
+
+        //danjsjkdfaushdfoaisdhfiousfsd
     }
 }
